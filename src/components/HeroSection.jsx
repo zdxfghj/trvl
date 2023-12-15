@@ -1,6 +1,6 @@
 import React from "react"
 import "./HeroSection.css"
-import VideoBackground from "../videos/video-2.mp4";
+import VideoBackground from "../videos/video-1.mp4";
 import { Button } from "./Button";
 function HeroSection(){
     return(
